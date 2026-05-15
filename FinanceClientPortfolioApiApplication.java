@@ -1,4 +1,4 @@
-package com.amrutha.financeapi;
+package com.Ram.financeapi;
 
 import jakarta.persistence.*;
 import jakarta.validation.Valid;
